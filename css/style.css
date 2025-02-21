@@ -97,3 +97,49 @@
     background-color: rgb(174, 96, 96);
     border: 2px dotted black;
 }
+.container5{
+    margin: 0;
+    max-width: 1700px;
+    height: 75px;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 20px;
+}
+.colonna8{
+    height: 40px;
+    width: 900px;
+    background-color: aqua;
+}
+.margin{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.logo{
+    width: 45px;
+    height: auto;
+    border: 2px dotted black;
+    padding: 2px;
+    display: inline-block;
+    background-color: rgb(246, 165, 165);
+    margin-right: 791px;
+    margin-top: 6px;
+}
+.bottone{
+    width: 60px;
+    height: auto;
+    border: 2px dotted black;
+    padding: 2px;
+    display: inline-block;
+    background-color: rgb(246, 165, 165);
+}
+.space-between{
+    justify-content: space-between;
+}
+.container6{
+    max-width: 1700px;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
