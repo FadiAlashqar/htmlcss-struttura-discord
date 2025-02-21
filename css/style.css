@@ -82,3 +82,18 @@
     background-color: green;
     border: 2px dotted black;
 }
+.blocco4{
+    background-color: rgba(9, 14, 22, 0.896);
+}
+.colonna6{
+    height: 250px;
+    width: 150px;
+    background-color: turquoise;
+    border: 2px dotted white;
+}
+.colonna7{
+    height: 250px;
+    width: 300px;
+    background-color: rgb(174, 96, 96);
+    border: 2px dotted black;
+}
